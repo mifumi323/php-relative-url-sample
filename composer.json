@@ -8,5 +8,7 @@
             "email": "mifumi323@gmail.com"
         }
     ],
-    "require": {}
+    "require": {
+        "guzzlehttp/psr7": "^2.4"
+    }
 }
