@@ -1,0 +1,12 @@
+{
+    "name": "mifumi323/php-relative-url-sample",
+    "description": "sample",
+    "license": "CC0 1.0 Universal",
+    "authors": [
+        {
+            "name": "mifumi323",
+            "email": "mifumi323@gmail.com"
+        }
+    ],
+    "require": {}
+}
